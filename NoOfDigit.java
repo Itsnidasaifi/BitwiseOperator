@@ -4,7 +4,7 @@ public class NoOfDigit {
         int b=12;
         int ans=(int)(Math.log(n)/Math.log(b))+1;
         System.out.println(ans);
-        //this will represent the number of bits in b
+        
         
 
     }
